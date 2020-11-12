@@ -54,7 +54,9 @@ p {
   font-size: 14px;
 }
 
-.category-world, .category-politics {
+.category-world,
+.category-politics,
+.category-us {
   width: 70px;
   height: 20px;
   color: #f72210;
@@ -69,6 +71,10 @@ p {
 
 .category-politics {
   width: 80px;
+}
+
+.category-us {
+  width: 50px;
 }
 
 .card-body .card-tittle:hover {
