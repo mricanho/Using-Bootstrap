@@ -1,6 +1,28 @@
-body {
-  padding-top: 70px;
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 900;
 }
+
+a, div, p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.radius0 {
+  border-radius: 0px;
+}
+
+.empty-box {
+  border-top: 1px solid #eeeeee;
+  height: 20px;
+}
+
+/* Navbar */
 
 .nav-1 {
   background: #F72210;
@@ -11,10 +33,26 @@ body {
   background-color: #FBE401;
   border-radius: 11px;
   width: 92.58px;
-  font-size: 13px;
+  font-size: 11px;
   font-weight: bold;
 }
 
-.pointer {
-  cursor: pointer;
+/* Main */
+
+.tittle-section {
+  color: rgba(3,3,3,.4);
+  font-size: 14px;
+}
+
+.category {
+  width: 70px;
+  height: 20px;
+  color: #F72210;
+  background-color: rgba(255, 255, 255, 0.904);
+  padding: 10px;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: auto;
+  font-size: 13px;
 }
