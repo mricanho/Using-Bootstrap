@@ -1,5 +1,5 @@
 body {
-  padding-top: 70px;
+  padding-top: 50px;
 }
 
 h1,
@@ -54,7 +54,7 @@ p {
   font-size: 14px;
 }
 
-.category {
+.category-world, .category-politics {
   width: 70px;
   height: 20px;
   color: #f72210;
@@ -65,6 +65,10 @@ p {
   left: 0;
   top: auto;
   font-size: 13px;
+}
+
+.category-politics {
+  width: 80px;
 }
 
 .card-body .card-tittle:hover {
