@@ -80,3 +80,30 @@ p {
 .card-body .card-tittle:hover {
   text-decoration: #f72210 underline;
 }
+
+/* the debate section */
+
+.up-line {
+  width: 100%;
+  height: 4px;
+  border-top: 1px solid #d4d4d4;
+  border-bottom: 1px solid #d4d4d4;
+  background-color: #d4d4d4;
+}
+
+.line-debate {
+  width: 100%;
+  height: 3px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.vs-circle {
+  background: black;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  position: absolute;
+  margin-top: 10px;
+  padding-top: 5px;
+}
