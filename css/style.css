@@ -107,3 +107,32 @@ p {
   margin-top: 10px;
   padding-top: 5px;
 }
+
+/* sponsored insight */
+
+.tittle-section-s {
+  color: #3b87e6;
+}
+
+.category-sponsor,
+.category-stem,
+.category-rankings {
+  width: 160px;
+  height: 30px;
+  color: #3b87e6;
+  background-color: rgba(255, 255, 255, 0.904);
+  padding: 10px;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: auto;
+  font-size: 13px;
+}
+
+.category-stem {
+  width: 60px;
+}
+
+.category-rankings {
+  width: 90px;
+}
