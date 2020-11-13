@@ -136,3 +136,27 @@ p {
 .category-rankings {
   width: 90px;
 }
+
+/* culture & travel */
+
+.category-pets,
+.category-biden,
+.category-bond {
+  width: 40px;
+  height: 20px;
+  background-color: #c2d4d7;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: auto;
+  bottom: -5px;
+  font-size: 12px;
+}
+
+.category-biden {
+  width: 80px;
+}
+
+.category-bond {
+  width: 90px;
+}
