@@ -51,7 +51,7 @@ p {
 
 .tittle-section {
   color: rgba(3, 3, 3, 0.4);
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .category-world,
@@ -79,4 +79,102 @@ p {
 
 .card-body .card-tittle:hover {
   text-decoration: #f72210 underline;
+}
+
+/* the debate section */
+
+.up-line {
+  width: 100%;
+  height: 4px;
+  border-top: 1px solid #d4d4d4;
+  border-bottom: 1px solid #d4d4d4;
+  background-color: #d4d4d4;
+}
+
+.line-debate {
+  width: 100%;
+  height: 3px;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.vs-circle {
+  background: black;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  position: absolute;
+  margin-top: 10px;
+  padding-top: 5px;
+}
+
+/* sponsored insight */
+
+.tittle-section-s {
+  color: #3b87e6;
+}
+
+.category-sponsor,
+.category-stem,
+.category-rankings {
+  width: 160px;
+  height: 30px;
+  color: #3b87e6;
+  background-color: rgba(255, 255, 255, 0.904);
+  padding: 10px;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: auto;
+  font-size: 13px;
+}
+
+.category-stem {
+  width: 60px;
+}
+
+.category-rankings {
+  width: 90px;
+}
+
+/* culture & travel */
+
+.category-pets,
+.category-biden,
+.category-bond {
+  width: 40px;
+  height: 20px;
+  background-color: #c2d4d7;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  top: auto;
+  bottom: -5px;
+  font-size: 12px;
+}
+
+.category-biden {
+  width: 80px;
+}
+
+.category-bond {
+  width: 90px;
+}
+
+/* sponsored insight-2 */
+
+.sign-up {
+  background-color: #F4F5F6;
+}
+
+.n-icon {
+  background: #f72210
+}
+
+.t-signup {
+  line-height: 1;
+}
+
+.i-signup {
+  height: 30px;
 }
