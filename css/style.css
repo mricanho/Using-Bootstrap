@@ -178,3 +178,11 @@ p {
 .i-signup {
   height: 30px;
 }
+
+.btn-signup {
+  background: #f72210;
+  color: white;
+  font-weight: bold;
+  font-size: 14px;
+  height: 30px;
+}
