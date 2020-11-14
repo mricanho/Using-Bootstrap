@@ -234,3 +234,15 @@ p {
 .category-tech {
   width: 135px;
 }
+
+/* Categories section */
+
+.new-section {
+  color: #f72210;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.tiny-img {
+  width: 110px;
+}
