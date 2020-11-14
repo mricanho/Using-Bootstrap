@@ -56,7 +56,8 @@ p {
 
 .category-world,
 .category-politics,
-.category-us {
+.category-us,
+.category-magazine {
   width: 70px;
   height: 20px;
   color: #f72210;
@@ -164,11 +165,11 @@ p {
 /* sponsored insight-2 */
 
 .sign-up {
-  background-color: #F4F5F6;
+  background-color: #f4f5f6;
 }
 
 .n-icon {
-  background: #f72210
+  background: #f72210;
 }
 
 .t-signup {
@@ -185,4 +186,37 @@ p {
   font-weight: bold;
   font-size: 14px;
   height: 30px;
+}
+
+/* In the Magazine */
+
+.category-magazine {
+  width: 160px;
+}
+
+.sa-features {
+  background: #f4f5f6;
+  width: 100%;
+}
+
+.f-box,
+.s-box {
+  font-weight: 900;
+  width: auto;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
+  height: 30px;
+}
+
+.f-box {
+  background-color: #f72210;
+  color: white;
+}
+
+.s-box {
+  color: #f72210;
+}
+
+.infocus {
+  margin-top: -25px;
 }
