@@ -7,7 +7,9 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+.card-img-overlay,
+.first-button {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 700;
 }
@@ -42,8 +44,8 @@ p {
   color: black;
   background-color: #fbe401;
   border-radius: 11px;
-  width: 92.58px;
-  font-size: 11px;
+  width: 92px;
+  font-size: 12px;
   font-weight: bold;
 }
 
@@ -57,7 +59,9 @@ p {
 .category-world,
 .category-politics,
 .category-us,
-.category-magazine {
+.category-magazine,
+.category-health,
+.category-tech {
   width: 70px;
   height: 20px;
   color: #f72210;
@@ -67,11 +71,11 @@ p {
   position: absolute;
   left: 0;
   top: auto;
-  font-size: 13px;
+  font-size: 16px;
 }
 
 .category-politics {
-  width: 80px;
+  width: 85px;
 }
 
 .category-us {
@@ -119,7 +123,7 @@ p {
 .category-stem,
 .category-rankings {
   width: 160px;
-  height: 30px;
+  height: 25px;
   color: #3b87e6;
   background-color: rgba(255, 255, 255, 0.904);
   padding: 10px;
@@ -127,7 +131,7 @@ p {
   position: absolute;
   left: 0;
   top: auto;
-  font-size: 13px;
+  font-size: 16px;
 }
 
 .category-stem {
@@ -219,4 +223,14 @@ p {
 
 .infocus {
   margin-top: -25px;
+}
+
+/* Editor's pick */
+
+.category-health {
+  width: 75px;
+}
+
+.category-tech {
+  width: 135px;
 }
