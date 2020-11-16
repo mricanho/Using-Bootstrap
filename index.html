@@ -10,9 +10,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
     <title>Using Bootstrap</title>
   </head>
-  <body>
+  <body class="pt-lg-0">
     <header>
-      <nav class="navbar navbar-expand-lg navbar-light py-0 mr-0 justify-content-center nav-1 fixed-top">
+      <nav class="navbar navbar-expand-lg navbar-light py-0 mr-0 justify-content-center nav-1 fixed-top d-lg-none mobile-nav">
         <img class="navbar-brand img-fluid py-2 mr-0" src="assets/NW-logo1.png" alt="nw-logo" width="132">
         <ul class="list-inline ml-auto pr-0 mr-0 my-auto">
           <li class="list-inline-item align-middle">
@@ -25,6 +25,93 @@
           </li>
        </ul>
       </nav>
+      <div class="container-fluid d-none d-lg-block px-0">
+        <nav class="nav first-nav justify-content-between px-5 top-first-nav align-items-end font-nav">
+          <ul class="nav-item d-flex flex-column justify-content-end text-white list-unstyled">
+            <li>
+              <i class="fas fa-cloud-sun"></i> 11° Mexico City, MX
+              <i class="fas fa-chevron-right"></i>
+            </li>
+            <li>Mon, Nov 16, 2020</li>
+          </ul>
+          <a class="nav-item navbar-brand" href="#"><img src="/assets/NW-logo1.png" alt="navbar logo" /></a>
+    
+          <ul class="nav-item d-flex align-items-end list-unstyled">
+            <li>
+              <a class="nav-link text-white font-weight-bold" href="#">LOGIN</a>
+            </li>
+            <li>
+              <a href="#" class="btn btn-warning rounded-pill first-button">SUBSCRIBE<i class="fas fa-chevron-right"></i>
+              </a>
+            </li>
+          </ul>
+        </nav>
+        <nav class="nav second-nav mb-2 col-12 d-flex justify-content-between font-nav px-3">
+          <ul class="nav-item d-flex justify-content-between align-items-center my-1 px-0 font-weight-bold list-unstyled">
+            <li>
+              <a href="#" class="nav-link border-right exotic-2">U.S. </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link border-right exotic-2"> World </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link border-right exotic-2"> Business </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link border-right exotic-2">Tech & Science
+              </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link border-right exotic-2"> Culture </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link border-right exotic-2"> Newsgeek </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link border-right exotic-2"> Sports </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link border-right exotic-2"> Health </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link border-right exotic-2"> The Debate </a>
+            </li>
+            <li>
+              <a href="#" class="nav-link border-right exotic-2">Weather </a>
+            </li>
+            <li>
+              <span class="mx-3 text-muted">Search</span>
+              <i class="fas fa-search"></i>
+            </li>
+          </ul>
+    
+          <div class="border-box"></div>
+          <div class="small-box"></div>
+        </nav>
+    
+        <nav class="nav third-nav border-top border-bottom pl-5">
+          <ul class="nav-item d-flex justify-content-between align-items-center my-1 px-0 font-weight-bold list-unstyled">
+            <li>
+              <span class="nav-link font-weight-bold text-dark">TRENDING</span>
+            </li>
+            <li>
+              <a href="#" class="nav-link font-weight-bold exotic">JOE BIDEN</a>
+            </li>
+            <li>
+              <a href="#" class="nav-link font-weight-bold exotic">DONALD TRUMP</a>
+            </li>
+            <li>
+              <a href="#" class="nav-link font-weight-bold exotic">2020 ELECTION</a>
+            </li>
+            <li>
+              <a href="#" class="nav-link font-weight-bold exotic">CORONAVIRUS</a>
+            </li>
+            <li>
+              <a href="#" class="nav-link font-weight-bold exotic">STIMULUS PACKAGE</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
     </header>
     
     <main class="d-flex flex-column mt-4 container-fluid position-relative px-0"> 
@@ -1757,6 +1844,7 @@
     <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/a4590f3e3a.js" crossorigin="anonymous"></script>
 
   </body>
 </html>
