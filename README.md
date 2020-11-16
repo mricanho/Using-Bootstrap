@@ -1,15 +1,16 @@
 # Using Bootstrap . Newsweek clone
 This project is a clone of the website https://www.newsweek.com/, 
 
-![screenshot](../featureDev/screenshot.jpeg)
+![screenshot](../featureDev2/screenshot.jpeg)
 
-The main goal is learn and use Bootstrap as much as possible.
+The main goal is to master Bootstrap as a big and agile framework to create astonishing websites. 
 
 
 <h2>Built with</h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
+  <li>Bootstrap</li>
 </ul>
 
 <h2>Live demo</h2>
@@ -21,11 +22,9 @@ The main goal is learn and use Bootstrap as much as possible.
   <li>Github: <a href="https://github.com/mricanho">@mricanho</a>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/mricanho/">Miguel Ricaño</a></li>
 </ul>
-
-<p><strong>Miguel Ricaño</strong></p>
 <ul>
-  <li>Github: <a href="https://github.com/shahnaeem">@shahnaeem</a>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/**************/">Mohammad Nayeem Shah</a></li>
+  <li>Github: <a href="https://github.com/shahnaeem">@mricanho</a>
+  <li>LinkedIn: <a href="https://linkedin.com/in/mohd-nayeem-shah-97a590152">Mohammad Naeem Shah</a></li>
 </ul>
   
 <h2>Contributing</h2>
@@ -38,4 +37,4 @@ The main goal is learn and use Bootstrap as much as possible.
   if you like this project!</p>
   
 <h2>License</h2>
-  <p>This project is <a href="../Using-Bootstrap/LICENSE">MIT</a> licensed.</p>
+  <p>This project is <a href="https://github.com/mricanho/Using-Bootstrap/blob/main/LICENSE">MIT</a>licensed.<p>
