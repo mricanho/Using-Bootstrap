@@ -14,7 +14,7 @@ The main goal is to master Bootstrap as a big and agile framework to create asto
 </ul>
 
 <h2>Live demo</h2>
-<a href="https://htmlpreview.github.io/?https://github.com/mricanho/Using-Bootstrap/blob/featureDev2/index.html">Visit Page</a>
+<a href="https://mricanho.github.io/Using-Bootstrap/">Visit Page</a>
 
 <h2>Author</h2>
 <p><strong>Miguel Ricaño</strong></p>
