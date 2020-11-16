@@ -17,6 +17,7 @@ The main goal is learn and use Bootstrap as much as possible.
 
 <h2>Author</h2>
 <p><strong>Miguel Ricaño</strong></p>
+<p><strong>Mohammad Nayeem Shah</strong></p>
 <ul>
   <li>Github: <a href="https://github.com/mricanho">@mricanho</a>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/mricanho/">Miguel Ricaño</a></li>
@@ -25,7 +26,7 @@ The main goal is learn and use Bootstrap as much as possible.
 <p><strong>Miguel Ricaño</strong></p>
 <ul>
   <li>Github: <a href="https://github.com/shahnaeem">@shahnaeem</a>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/**************/">Mohammad Nayeem Shah</a></li>
+  <li>LinkedIn: <a href="https://linkedin.com/in/mohd-nayeem-shah-97a590152">Mohammad Nayeem Shah</a></li>
 </ul>
   
 <h2>Contributing</h2>
