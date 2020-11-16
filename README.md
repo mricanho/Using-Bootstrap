@@ -23,7 +23,7 @@ The main goal is to master Bootstrap as a big and agile framework to create asto
   <li>LinkedIn: <a href="https://www.linkedin.com/in/mricanho/">Miguel Ricaño</a></li>
 </ul>
 <ul>
-  <li>Github: <a href="https://github.com/shahnaeem">@mricanho</a>
+  <li>Github: <a href="https://github.com/shahnaeem">@shahnaeem</a>
   <li>LinkedIn: <a href="https://linkedin.com/in/mohd-nayeem-shah-97a590152">Mohammad Naeem Shah</a></li>
 </ul>
   
