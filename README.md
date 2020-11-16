@@ -33,4 +33,4 @@ The main goal is to master Bootstrap as a big and agile framework to create asto
   if you like this project!</p>
   
 <h2>License</h2>
-  <p>This project is <a href="../Using-Bootstrap/LICENSE">MIT</a> licensed.</p>
+  <p>This project is <a href="https://github.com/mricanho/Using-Bootstrap/blob/main/LICENSE">MIT</a> licensed.</p>
