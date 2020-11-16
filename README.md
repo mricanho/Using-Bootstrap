@@ -22,6 +22,10 @@ The main goal is to master Bootstrap as a big and agile framework to create asto
   <li>Github: <a href="https://github.com/mricanho">@mricanho</a>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/mricanho/">Miguel Ricaño</a></li>
 </ul>
+<ul>
+  <li>Github: <a href="https://github.com/shahnaeem">@mricanho</a>
+  <li>LinkedIn: <a href="https://linkedin.com/in/mohd-nayeem-shah-97a590152">Mohammad Naeem Shah</a></li>
+</ul>
   
 <h2>Contributing</h2>
 <p>Contributions, issues, and feature requests are welcome!<p>
@@ -33,4 +37,4 @@ The main goal is to master Bootstrap as a big and agile framework to create asto
   if you like this project!</p>
   
 <h2>License</h2>
-  <p>This project is <a href="https://github.com/mricanho/Using-Bootstrap/blob/main/LICENSE">MIT</a> licensed.</p>
+  <p>This project is <a href="https://github.com/mricanho/Using-Bootstrap/blob/main/LICENSE">MIT</a>licensed.<p>
