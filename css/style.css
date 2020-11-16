@@ -311,3 +311,8 @@ p {
 .exotic-2:hover {
   color: #f72210;
 }
+
+.big-font {
+  font-size: 16px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
